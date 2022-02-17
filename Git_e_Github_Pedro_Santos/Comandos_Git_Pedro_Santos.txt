@@ -1,1 +1,11 @@
-
+$ ls /utilizado para arquivos no diretório ou pasta
+$ mkdir /utilizado para criar pastas
+$ clear /limpa a tela do terminal
+$ echo "" > 'nome.extenção' /cria um arquivo expicificado
+$ cd E cd ~/diretório expecifico /utilizados para alternar entre pasta
+$ cd .. /volta uma pasta
+$ git clone ssh://usuario@domain.com/repo.git /clona um repositorio remoto
+$ git init /cria um repositorio local
+$ git add . /seleciona os arquivos para serem comitados
+$ git commit -m"" /comita os arquivos selecionados
+$ git push origin main OU master /envia arquivos comitados do repositorio local para o remoto 
